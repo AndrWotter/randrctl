@@ -1,0 +1,2 @@
+# randrctl
+good aidia
